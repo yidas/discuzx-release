@@ -3,6 +3,18 @@ Discuz! X Release
 
 Discuz! PHP forum X series package release
 
+
+升級版本節點
+-----------
+
+以下為Discuz升級的版本節點，每個節點區間才有辦法進行升級:
+
+- 7.2 =>
+- X2.0 =>
+- X3.2 =>
+- X3.4
+
+
 參考
 ----
 

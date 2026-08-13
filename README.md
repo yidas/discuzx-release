@@ -12,6 +12,8 @@ Discuz! PHP forum X series package release
 - 7.2 => X2.0
 - X2.0 => X3.2
 - X3.2 => X3.4
+- X3.4 => X3.5
+- X3.5 => X5.0
 
 
 參考

@@ -34,15 +34,13 @@ Discuz! PHP forum X series package release
 
 ### x3.5 => x5.0
 
-```
-- 確保您的舊版本 Discuz! 必須爲 X3.5 版本，如不滿足版本要求請先升級到此版本；
-- 確保 UCenter 和 Discuz! 部署在一個數據庫中；
-- 確保您已備份了數據庫和程式檔案，將舊版本程式檔案移動到其他目錄下；
-- 將舊版本的配置檔案 config/config_global.php、config/config_ucenter.php 複製到當前新版本的 config/ 目錄中；
-- 點擊“下一步”開始升級；
-- 升級完成後可以將舊版本中 source/plugin/ 目錄下的插件檔案挑選後複製到新版本的對應目錄下、將 template/ 目錄下的模板檔案挑選後複製到新版本的對應目錄下（不要複製 t- emplate/default/ 目錄）；
-- 升級完成後 data/attachment/ 目錄以及 data/ 目錄下其他目錄請酌情複製；如舊版本應用涉及其他目錄中的檔案，請自行諮詢相關開發者複製；
-```
+> - 確保您的舊版本 Discuz! 必須爲 X3.5 版本，如不滿足版本要求請先升級到此版本；
+> - 確保 UCenter 和 Discuz! 部署在一個數據庫中；
+> - 確保您已備份了數據庫和程式檔案，將舊版本程式檔案移動到其他目錄下；
+> - 將舊版本的配置檔案 config/config_global.php、config/config_ucenter.php 複製到當前新版本的 config/ 目錄中；
+> - 點擊“下一步”開始升級；
+> - 升級完成後可以將舊版本中 source/plugin/ 目錄下的插件檔案挑選後複製到新版本的對應目錄下、將 template/ 目錄下的模板檔案挑選後複製到新版本的對應目錄下（不要複製 t- emplate/default/ 目錄）；
+> - 升級完成後 data/attachment/ 目錄以及 data/ 目錄下其他目錄請酌情複製；如舊版本應用涉及其他目錄中的檔案，請自行諮詢相關開發者複製；
 
 ---
 
